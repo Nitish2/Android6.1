@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username_error">Username cannot be empty </string>
+    <string name="password_error">Password cannot be empty </string>
+    <string name="logIn_error">LogIn Failed </string>
+</resources>
